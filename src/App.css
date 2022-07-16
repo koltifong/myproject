@@ -36,3 +36,310 @@
     transform: rotate(360deg);
   }
 }
+body{
+  font-size: 15px;
+  font-family: "Roboto", sans-serif;
+  color: azure;
+  background-color: azure;
+}
+h4{
+  font-size: medium;
+}
+a {
+  color: azure;
+  text-decoration: none;
+}
+a:hover {
+  color: #e71c14c9;
+}
+.start-75 {
+  left: 75% !important;
+}
+
+.bg-grey {
+  background-color: #1e1f29;
+}
+.bg-dark-grey {
+  background-color: #15161d;
+}
+#top-header .top-header-info {
+  padding: 10px;
+}
+#top-header .top-header-info span {
+  margin-right: 5px;
+}
+
+#top-header .logo {
+  width: 80px;
+  height: 80px;
+}
+
+#top-header .search-box .category-box {
+  overflow: hidden;
+  border: none;
+  height: 50px;
+}
+#top-header .search-box .search-box-button {
+  overflow: hidden;
+  border-radius: 20px;
+  
+}
+.col-half-offset{
+  margin-left:4.166666667%
+}
+p , h6{
+  color: black;
+}
+footer{
+  background-color: rgba(91, 7, 7, 0.338);
+  padding: 1rem 0 0 0;
+  color: #15161d;
+}
+.modal{
+  color: #15161d;
+  font-family: 'Times New Roman', Times, serif;
+}
+ .nav {
+   background-color: #1e1f29;
+ }
+ /* card list */
+ .card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  height: 500px;
+}
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+/* images */
+img{
+  width: 100%;
+  height: 300px;
+  align-items: center;
+}
+body{
+  min-height: 100vh;
+}
+header{
+    background-color: #15161d;
+    color: white;
+    margin: 0%;
+    padding: 0%;
+    border: none;
+}
+
+.A{
+    padding-left: 20px;
+}
+h2{
+    padding-left: 20px;
+}
+.nav-link{
+  color: #f2f2f2;
+  padding-bottom: 10px;
+}
+.nav-link:hover{
+  color: red;
+}
+
+body{
+    background-image: -moz-linear-gradient();
+
+}
+.row {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    -ms-flex-wrap: wrap; /* IE10 */
+    flex-wrap: wrap;
+  
+    
+  }
+  
+  .col-25 {
+    -ms-flex: 25%; /* IE10 */
+    flex: 25%;
+  }
+  
+  .col-50 {
+    -ms-flex: 50%; /* IE10 */
+    flex: 50%;
+  }
+  
+  .col-75 {
+    -ms-flex: 75%; /* IE10 */
+    flex: 75%;
+  }
+  
+  
+  .col-75 {
+    padding: 0 16px;
+  }
+  
+  .contain {
+    background-color: #f2f2f2;
+    padding: 5px 20px 15px 20px;
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+  }
+  
+  input[type=text] {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  label {
+    margin-bottom: 10px;
+   
+  }
+  
+  .icon-container {
+    margin-bottom: 20px;
+    padding: 7px 0;
+    font-size: 24px;
+  }
+  
+  .btn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px;
+    margin: 10px 0;
+    border: none;
+    width: 100%;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 17px;
+  }
+  
+  .btn:hover {
+    background-color: #45a049;
+  }
+  
+  span.price {
+    float: right;
+    color: grey;
+  }
+  
+  /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other (and change the direction - make the "cart" column go on top) */
+  @media (max-width: 800px) {
+    .row {
+      flex-direction: column-reverse;
+    }
+    .col-25 {
+      margin-bottom: 20px;
+    }
+  }
+  .fas{
+    margin-left: 5px;
+  
+  }
+  #footer{
+    background-color: lightblue;
+    position: sticky;
+    top: 100%;
+}
+.din{
+  width: 100%;
+  padding-left: 25%;
+  padding-right: 25%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.nav-link{
+  
+ color:white;
+  padding: 12px;
+  margin: 10px 0;
+  border: none;
+  width: 100%;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 17px;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+/* Card flip with text */
+/* .flip-card {
+  background-color: transparent;
+  width: 300px;
+  height: 300px;
+  perspective: 1000px;
+}
+
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.flip-card-front {
+  background-color: #bbb;
+  color: black;
+}
+
+.flip-card-back {
+  background-color: #2980b9;
+  color: white;
+  transform: rotateY(180deg);
+}
+  */

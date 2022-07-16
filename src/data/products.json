@@ -1,0 +1,159 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "category_name": "Head Phone",
+      "products": [
+        {
+          "id": 1,
+          "name": "A ",
+          "image":"images/headphones/iu-1.png",
+          "rate": 5,
+          "reviews": 216,
+          "price": 199.95,
+          "description": "Best product sell in this month"
+        },
+        {
+          "id": 2,
+          "name": "B ",
+          "image":"images/headphones/iu-2.png",
+          "rate": 3.2,
+          "reviews": 216,
+          "price": 199.95,
+          "description": "Best product sell in this month"
+        },
+        {
+          "id": 3,
+          "name": "C ",
+          "image":"images/headphones/iu-3.png",
+          "rate": 4.3,
+          "reviews": 216,
+          "price": 199.95,
+          "description": "Best product sell in this month"
+        },
+        {
+            "id": 4,
+            "name": "D ",
+            "image":"images/headphones/iu-4.png",
+            "rate": 4.3,
+            "reviews": 216,
+            "price": 199.95
+          }
+      ]
+    },
+    {
+        "id": 2,
+        "category_name": "Mouse",
+        "products": [
+          {
+            "id": 1,
+            "name": "AA",
+            "image":"images/Accessories/Mouse/m1.png",
+            "rate": 3.7,
+            "reviews": 216,
+            "price": 199.95
+          },
+          {
+            "id": 2,
+            "name": "BB ",
+            "image":"images/Accessories/Mouse/m2.webp",
+            "rate": 2.7,
+            "reviews": 216,
+            "price": 199.95
+          },
+          {
+            "id": 3,
+            "name": "CC ",
+            "image":"images/Accessories/Mouse/m3.webp",
+            "rate": 1.7,
+            "reviews": 216,
+            "price": 199.95
+          },
+          {
+            "id": 3,
+            "name": "EE ",
+            "image":"images/Accessories/Mouse/m4.webp",
+            "rate": 1.7,
+            "reviews": 216,
+            "price": 199.95
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "category_name": "Monitor",
+        "products": [
+          {
+            "id": 1,
+            "name": "AAA ",
+            "image":"images/Monitor/iu-1.png",
+            "rate": 3.7,
+            "reviews": 216,
+            "price": 199.95
+          },
+          {
+            "id": 2,
+            "name": "BBB ",
+            "image":"images/Monitor/iu-3.png",
+            "rate": 2.7,
+            "reviews": 216,
+            "price": 199.95
+          },
+          {
+            "id": 3,
+            "name": "CCC ",
+            "image":"images/Monitor/iu-4.png",
+            "rate": 1.7,
+            "reviews": 216,
+            "price": 199.95
+          },
+          {
+            "id": 3,
+            "name": "EEE ",
+            "image":"images/Monitor/ui7.png",
+            "rate": 1.7,
+            "reviews": 216,
+            "price": 199.95
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "category_name": "Keyboard",
+        "products": [
+          {
+            "id": 1,
+            "name": "AAAA ",
+            "image":"images/Accessories/Keyboard/k1.webp",
+            "rate": 3.7,
+            "reviews": 216,
+            "price": 199.95
+          },
+          {
+            "id": 2,
+            "name": "BBBB",
+            "image":"images/Accessories/Keyboard/k2.webp",
+            "rate": 2.7,
+            "reviews": 216,
+            "price": 199.95
+          },
+          {
+            "id": 3,
+            "name": "CCCC ",
+            "image":"images/Accessories/Keyboard/k3.webp",
+            "rate": 1.7,
+            "reviews": 216,
+            "price": 199.95
+          },
+          {
+            "id": 3,
+            "name": "EEEE ",
+            "image":"images/Accessories/Keyboard/k4.webp",
+            "rate": 1.7,
+            "reviews": 216,
+            "price": 199.95
+          }
+        ]
+      }
+  ]
+}
